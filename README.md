@@ -1,3 +1,3 @@
 # Search_bar
 
-Auto suggestion in flutter
+Auto suggestions in flutter
